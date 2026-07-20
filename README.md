@@ -1,5 +1,17 @@
-![](https://komarev.com/ghpvc/?username=mortisfication&color=6F1B1B&style=plastic&label=♱&abbreviated=true) 
+![](https://komarev.com/ghpvc/?username=mortisfication&color=6F1B1B&style=plastic&label=♱&abbreviated=true) <br>
 
-<p align="center">
-<img src="https://github.com/mortisfication/mortisficationn/blob/b144886caea960171fb9f677a92f70b36ed346b7/leviathan%20castiel.gif" width="1000">
-</p>
+DATS ME ON THE PT WALK OF FAME
+<p> <img src="https://github.com/mortisfication/mortisficationn/blob/9f40c17b8a4f05351c3a6fa3a61e766cc2ac0052/WTH.png" width="700"> </p> 
+<br>
+
+```
+(\ 
+\'\ 
+ \'\     __________  
+ / '|   ()_________)
+ \ '/    \    WIP   \
+   \       \  PROFILE \
+   ==).      \__________\
+  (__)       ()__________)
+```
+
