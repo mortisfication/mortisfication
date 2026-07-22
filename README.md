@@ -1,4 +1,4 @@
-> still a wip readme!
+> looks better on pc, still a wip readme!
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br>
@@ -21,3 +21,19 @@
 
 </details>
 </h6>
+
+<img align="left" src="https://github.com/mortisfication/mortisfication/blob/cb62f0ef94a8d3b4fed6cbe820662d67a52d4b83/placeholder.jpg" alt="placeholder" width="300" /> 
+
+---
+
+```
+
+
+
+
+placeholder textbox 
+
+
+
+
+```
