@@ -23,7 +23,7 @@
 </details>
 </h6>
 
-<img align="left" src="https://github.com/mortisfication/mortisfication/blob/cb62f0ef94a8d3b4fed6cbe820662d67a52d4b83/placeholder.jpg" alt="placeholder" width="200" /> 
+<img align="left" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="placeholder" width="450" /> 
 
 ---
 
