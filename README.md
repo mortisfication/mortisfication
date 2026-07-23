@@ -1,10 +1,8 @@
-> looks better on pc, still a wip readme!
-
 <h6 align="left"> 
  
  ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br> </h6>
 
-<img align="right" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="450"/>
+<img align="right" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="450"/> 
 
 ---
 
@@ -25,9 +23,8 @@
 
 <img align="left" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="placeholder" width="415" /> 
 
-<p align="center">⠀
+<p align="right">⠀
  <a href="https://dni-criteria.carrd.co"> <img src="https://github.com/mortisfication/mortisfication/blob/2852ffba3a22b7b806c5214f22a7a1b668208c7a/dni%20film%20roll.png" alt="dni here" width="250"></a>
-
 
 <h6 align="right"> 
  
