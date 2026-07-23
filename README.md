@@ -1,7 +1,9 @@
 > looks better on pc, still a wip readme!
 <br>
 
-![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br>
+<h6 align="left"> 
+ 
+ ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br> </h6>
 
 <img align="right" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="450"/>
 
@@ -14,7 +16,7 @@
 
 <h6 align="center">
 <details>
-<summary>⭐</summary>
+<summary> .✦ ݁˖ </summary>
 <br>
 <div align="left"> <table><tr><td>$${\color{#7E7E7E}im⠀in⠀the⠀PT⠀WALK⠀OF⠀FAME!!⠀for⠀creative⠀github⠀name}$$</td></tr></table> <table><tr><td> check out <a href="https://github.com/pt-walk-of-fame">pt walk of fame here! </a>  </td></tr></table>
  </div>
@@ -37,3 +39,6 @@ placeholder textbox
 
 
 ```
+<h6 align="right"> 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=50&pause=1000&color=5C5C5C&width=350&lines=mortisfication)](https://git.io/typing-svg) </h6>
