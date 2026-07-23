@@ -25,9 +25,12 @@
 
 <img align="left" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="placeholder" width="415" /> 
 
-<p align="right">⠀
- <a href="https://dni-criteria.carrd.co"> <img src="https://github.com/mortisfication/mortisfication/blob/2852ffba3a22b7b806c5214f22a7a1b668208c7a/dni%20film%20roll.png" alt="dni here" width="250"></a>
+<br>
 
-<h6 align="right"> 
+<a href="https://dni-criteria.carrd.co"> <img align="left" src="https://github.com/mortisfication/mortisfication/blob/1b056de558aaf45af5a554d0bc6486e520eef44a/placeholder.jpg" alt="placeholder" width="300"></a> <a href="https://dni-criteria.carrd.co"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/2852ffba3a22b7b806c5214f22a7a1b668208c7a/dni%20film%20roll.png" alt="dni here" width="200"></a> </p>
+
+<br> <br> <br>
+
+<h6 align="left"> 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=50&pause=1000&color=5C5C5C&width=350&lines=mortisfication)](https://git.io/typing-svg) </h6>
