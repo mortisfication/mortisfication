@@ -28,7 +28,7 @@
 <br>
 
 <p align="right">
-<img align="left" src="https://github.com/mortisfication/mortisfication/blob/959e81407f92b9748a8c6156cab6010b5cb36ecf/info%20clapboard.png" alt="placeholder" width="300"></a> <a href="https://dni-criteria.carrd.co"> <img src="https://github.com/mortisfication/mortisfication/blob/439f490cde917a1561ff41b5ebfc2b9ebb3bf262/dni%20film%20roll.png" alt="dni here" width="200"></a>
+<img align="left" src="https://github.com/mortisfication/mortisfication/blob/959e81407f92b9748a8c6156cab6010b5cb36ecf/info%20clapboard.png" alt="placeholder" width="350"></a> <a href="https://dni-criteria.carrd.co"> <img src="https://github.com/mortisfication/mortisfication/blob/439f490cde917a1561ff41b5ebfc2b9ebb3bf262/dni%20film%20roll.png" alt="dni here" width="200"></a>
 </p>
 
 <h6 align="right"> 
