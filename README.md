@@ -25,6 +25,4 @@
 
 <br>
 
-<p align="right">
-<img align="left" src="https://github.com/mortisfication/mortisfication/blob/959e81407f92b9748a8c6156cab6010b5cb36ecf/info%20clapboard.png" alt="placeholder" width="350"></a> 
-</p>
+<img align="right" src="https://github.com/mortisfication/mortisfication/blob/959e81407f92b9748a8c6156cab6010b5cb36ecf/info%20clapboard.png" alt="placeholder" width="400"></a> 
