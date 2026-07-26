@@ -1,4 +1,4 @@
-> best viewed on pc, still a wip readme
+> best viewed on pc
 
 <h6 align="left"> 
  
