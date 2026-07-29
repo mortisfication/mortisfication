@@ -11,16 +11,6 @@
 <a href="https://mortisfication.atabook.org"> <img src="https://github.com/mortisfication/mortisfication/blob/c3f7ad04c99d66d0b357fd38286b36f9ff7efcca/atabook%20sd%20card.png" alt="sign ata!" width="130"></a> 
 </p>
 
-<h6 align="center">
-<details>
-<summary> .✦ ݁˖ </summary>
-<br>
-<div align="left"> <table><tr><td>$${\color{#7E7E7E}im⠀in⠀the⠀PT⠀WALK⠀OF⠀FAME!!⠀for⠀creative⠀github⠀name}$$</td></tr></table> <table><tr><td> check out <a href="https://github.com/pt-walk-of-fame">pt walk of fame here! </a>  </td></tr></table>
- </div>
-
-</details>
-</h6>
-
 <img align="left" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="415"/> 
 
 <br>
