@@ -16,8 +16,8 @@
 <details>
 <summary> $${\color{#9198A1} PT⠀ }$$ </summary>
 <br>
-<div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀.✦ ݁˖}$$ <br> 
-⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>  for creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a> for prettiest github
+<div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.✦ ݁˖}$$ <br> 
+⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github
  
  </div>
 
