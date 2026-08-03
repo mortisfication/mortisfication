@@ -14,10 +14,10 @@
 <h6 align="center">
 
 <details>
-<summary> $${\color{#9198A1} PT⠀ }$$ </summary>
+<summary> $${\color{#9198A1} PT⠀AWARDS }$$ </summary>
 <br>
 <div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.✦ ݁˖}$$ <br> 
-⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github <br>⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>⠀⠀⠀⠀⠀PT's John Ward (F:TUT) <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-of-awesomeness">@pt-of-awesomeness</a> ⠀⠀⠀⠀⠀John Ward (F:TUT)
+⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github <br>⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>⠀⠀⠀⠀⠀PT's John Ward (F:TUT) <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-of-awesomeness">@pt-of-awesomeness</a> ⠀⠀⠀⠀⠀John Ward (F:TUT) <br>⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-medals">@pt-medals</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀PT's John Ward (F:TUT) 
  
  </div>
 
