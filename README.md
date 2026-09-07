@@ -2,7 +2,7 @@
  
  ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br> </h6>
 
-<img align="right" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="450"/> 
+<img align="right" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="450"/> 
 
 ---
 
@@ -18,18 +18,8 @@
 <br>
 <div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.✦ ݁˖}$$ <br> 
 ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github
- 
  </div>
-
 </details>
-
 </h6>
 
-
-<img align="left" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="415"/> 
-
-<br>
-
-<p align="right">
-<img align="center" src="https://github.com/mortisfication/mortisfication/blob/959e81407f92b9748a8c6156cab6010b5cb36ecf/info%20clapboard.png" alt="placeholder" width="400"></a> 
-</p>
+<p align="center"> <img align="center" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="500"> </p>
