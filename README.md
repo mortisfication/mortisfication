@@ -2,7 +2,7 @@
  
  ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br> </h6>
 
-<img align="right" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="475"/> 
+<img align="right" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="450"/> 
 
 ---
 
@@ -22,4 +22,4 @@
 </details>
 </h6>
 
-<p align="center"> <img align="center" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="500"> </p>
+<p align="center"> <img align="center" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="475"> </p>
