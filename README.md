@@ -22,4 +22,4 @@
 </details>
 </h6>
 
-<p align="center"> <img align="center" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="500"/> </p>
+<p align="center"> <img align="center" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="600"/> </p>
