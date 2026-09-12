@@ -17,7 +17,8 @@
 <summary> $${\color{#9198A1} MISC.⠀PT⠀AWARDS }$$ </summary>
 <br>
 <div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.✦ ݁˖}$$ <br> 
-⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github
+ ill fix this later sorrryyy
+⠀⠀⠀⠀⠀⠀@pt-walk-of-fame @pt-hall-of-media @pt-of-awesomeness @pt-medals @ponychievements ── .✦ ponytowns john ward f:tut <br>⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github
  </div>
 </details>
 </h6>
