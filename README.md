@@ -14,7 +14,7 @@
 <h6 align="center">
 
 <details>
-<summary> $${\color{#9198A1} MISC.⠀PT⠀AWARDS }$$ </summary>
+<summary> $${\color{#9198A1} PT⠀AWARDS }$$ </summary>
 <br>
 <div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.✦ ݁˖}$$ <br> 
  ill fix this later sorrryyy
