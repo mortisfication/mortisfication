@@ -1,3 +1,4 @@
+<a href="https://docs.google.com/document/d/1Zw251H_qY1zRE4KAXhFO-r-3-JTH012_eN-yMVhkPDc/edit?tab=t.0">be careful and be aware of copytown bots, info doc here</a> 
 <h6 align="left"> 
  
  ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br> </h6>
@@ -18,7 +19,7 @@
 <br>
 <div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.✦ ݁˖}$$ <br> 
  ⠀⠀⠀⠀⠀⠀ill fix this later sorrryyy <br>
-⠀⠀⠀⠀⠀⠀@pt-walk-of-fame @pt-hall-of-media @pt-of-awesomeness @pt-medals @ponychievements ── .✦ ponytowns john ward f:tut <br>⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github
+⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a> <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/pt-of-awesomeness">@pt-of-awesomeness</a> <a href="https://github.com/pt-medals">@pt-medals</a> <a href="https://github.com/ponychievements">@ponychievements</a> ── .✦ ponytowns john ward f:tut <br>⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github
  </div>
 </details>
 </h6>
