@@ -18,10 +18,7 @@
 <summary> $${\color{#9198A1} PT⠀AWARDS }$$ </summary>
 <br>
 <div align="left"> $${\color{#7E7E7E}⠀⠀⠀⠀⠀⠀THANK⠀YOU⠀SO⠀MUCH!!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.✦ ݁˖}$$ <br> 
- ⠀⠀⠀⠀⠀⠀ill fix this later sorrryyy <br>
 ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a> <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/pt-of-awesomeness">@pt-of-awesomeness</a> <a href="https://github.com/pt-medals">@pt-medals</a> <a href="https://github.com/ponychievements">@ponychievements</a> ── .✦ ponytowns john ward f:tut <br>⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>⠀⠀⠀⠀⠀⠀creative github name <br> ⠀⠀⠀⠀⠀⠀<a href="https://github.com/pt-players">@pt-players</a> + <a href="https://github.com/pt-fashion">@pt-fashion</a>⠀⠀⠀prettiest github
  </div>
 </details>
 </h6>
-
-<p align="center"> <img align="center" src="https://github.com/mortisfication/mortisfication/blob/c591a2dbd18c888a7c66cdc1d194b990b15823f3/destiel_YEP.png" alt="destiel good" width="550"/> </p>
