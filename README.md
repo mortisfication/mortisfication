@@ -1,7 +1,8 @@
 <a href="https://docs.google.com/document/d/1Zw251H_qY1zRE4KAXhFO-r-3-JTH012_eN-yMVhkPDc/edit?tab=t.0">be careful and be aware of copytown bots, info doc here</a> 
-<h6 align="left"> 
+<br> <br>
+<p align="left"> 
  
- ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br> </h6>
+ ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=for-the-badge&label=mortifed&abbreviated=true) <br> </p>
 
 <p align="center"> <img align="right" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="450"> </p>
 
