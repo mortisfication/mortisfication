@@ -4,7 +4,7 @@
  
  ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=for-the-badge&label=mortifed&abbreviated=true) <br> </p>
 
-<p align="center"> <img align="right" src="https://github.com/mortisfication/mortisficationn/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="450"> </p>
+<p align="center"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/9d716ae60dd7b4bb94c3c339981c9df43084105a/okay_cute.png" alt="cute" width="450"> </p>
 
 ---
 
