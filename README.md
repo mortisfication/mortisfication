@@ -1,3 +1,11 @@
+<details <p align="center">
+<summary> $${\color{#ffffff} placeholder ⠀text ⠀with⠀unicode}$$  </summary>
+<br>
+
+  placeholder
+</details>
+
+
 > wip readme
 <div align="center">
   
