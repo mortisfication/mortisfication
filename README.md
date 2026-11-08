@@ -8,6 +8,6 @@
 <a href="https://pronouns.cc/@mortisfication"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/dfd1e649f9ce86915d7c3979c9538b11bebd4c6e/pronoun.png" alt="pronouns.cc" width="175"/>
 <a href="https://guns.lol/mortisfication"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/dfd1e649f9ce86915d7c3979c9538b11bebd4c6e/guns%20trolololll.png" alt="guns.lol" width="175"/>
 
-<p> <img src="https://github.com/mortisfication/mortisfication/blob/755f857fa7aa3c7c75f26556bdb16aeebe913445/ethan-winters-cuptoast.gif" alt="cutest gif ever" width="100"> </p>
+<p align="center"> <img src="https://github.com/mortisfication/mortisfication/blob/755f857fa7aa3c7c75f26556bdb16aeebe913445/ethan-winters-cuptoast.gif" alt="cutest gif ever" width="200"> </p>
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
