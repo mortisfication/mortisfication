@@ -7,16 +7,15 @@
 <a href="https://mortisfication.atabook.org"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/64b3ec7413fa7633a9965cd31ba1b3a0895d311c/atabookkkk.png" alt="atabook" width="350"/> </a>
 <a href="https://pronouns.cc/@mortisfication"> <img align="center" src="https://github.com/mortisfication/mortisfication/blob/cbddca4adede4e0dfd059d8174adb91b51b1d1de/pronouns%20cee%20cee.png" alt="pronouns.cc" width="400"/> </a> </p>
 <br>
+
+<h6>
 <details align="center">
 <summary> awards </summary>
-<table>
-    <tr> <th> <a href="https://github.com/pt-players">pt players</a> <a href="https://github.com/pt-walk-of-fame">pt walk of fame</a> <a href="https://github.com/pt-hall-of-media">pt hall of media</a> <br> <a href="https://github.com/pt-fashion">pt fashion</a> <a href="https://github.com/ponychievements">ponychievements</a> <a href="https://github.com/pt-medals">pt medals</a> <br> <a href="https://github.com/Ponytowns-rewards">ponytowns rewards</a> <a href="https://github.com/THE-TEMPIST">the tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a>
-    </th> </tr>
-  </table>
+<a href="https://github.com/pt-players">pt players</a> <a href="https://github.com/pt-walk-of-fame">pt walk of fame</a> <a href="https://github.com/pt-hall-of-media">pt hall of media</a> <a href="https://github.com/pt-fashion">pt fashion</a> <a href="https://github.com/ponychievements">ponychievements</a> <a href="https://github.com/pt-medals">pt medals</a> <a href="https://github.com/Ponytowns-rewards">ponytowns rewards</a> <a href="https://github.com/THE-TEMPIST">the tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a>
 </details>
 <br> <br>
 <p> <a href="https://www.projectumbrella.net/biohazard-umbrella-chronicles-prelude-to-the-fall.html"> <img align="left" src="https://github.com/mortisfication/mortisfication/blob/bfd7612683c7cbf5ad67a4c379af00158e8889e7/prelude%20to%20the%20fall.png" alt="prelude to the fall" width="450"/> </p>
-
+</h6>
 
 
 
