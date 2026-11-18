@@ -11,7 +11,7 @@
 <h6>
 <details align="center">
 <summary> awards </summary>
-<a href="https://github.com/pt-players">pt players</a> <a href="https://github.com/pt-walk-of-fame">pt walk of fame</a> <a href="https://github.com/pt-hall-of-media">pt hall of media</a> <a href="https://github.com/pt-fashion">pt fashion</a> <a href="https://github.com/ponychievements">ponychievements</a> <a href="https://github.com/pt-medals">pt medals</a> <a href="https://github.com/Ponytowns-rewards">ponytowns rewards</a> <a href="https://github.com/THE-TEMPIST">the tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a>
+<a href="https://github.com/pt-players">pt players</a> <a href="https://github.com/pt-walk-of-fame">pt walk of fame</a> <a href="https://github.com/pt-hall-of-media">pt hall of media</a> <a href="https://github.com/pt-fashion">pt fashion</a> <a href="https://github.com/ponychievements">ponychievements</a> <br> <a href="https://github.com/pt-medals">pt medals</a> <a href="https://github.com/Ponytowns-rewards">ponytowns rewards</a> <a href="https://github.com/THE-TEMPIST">the tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a>
 </details>
 <br> <br>
 <p> <a href="https://www.projectumbrella.net/biohazard-umbrella-chronicles-prelude-to-the-fall.html"> <img align="left" src="https://github.com/mortisfication/mortisfication/blob/bfd7612683c7cbf5ad67a4c379af00158e8889e7/prelude%20to%20the%20fall.png" alt="prelude to the fall" width="450"/> </p>
