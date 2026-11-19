@@ -10,13 +10,13 @@
 <h6>
 <details align="center">
 <summary> awards </summary>
-<br> <br> <br>
+<br> 
 <a href="https://github.com/pt-players">pt players</a> <a href="https://github.com/pt-walk-of-fame">pt walk of fame</a> <a href="https://github.com/pt-hall-of-media">pt hall of media</a> <a href="https://github.com/pt-fashion">pt fashion</a> <a href="https://github.com/ponychievements">ponychievements</a> <br> <a href="https://github.com/pt-medals">pt medals</a> <a href="https://github.com/Ponytowns-rewards">ponytowns rewards</a> <a href="https://github.com/THE-TEMPIST">the tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a>
 </details>
 </h6>
 
 <p align="right"> ic for below: <a href="https://x.com/Opto33333">@Opto33333 on twt</p> <a href="https://github.com/BadFishlers"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/97ed6903c0e119551e1d78657f2f7ccef869e926/they%20are%20so%20moe.png" alt="me and badfish TRUE 100" width="400"/> </a> 
-<br>
+<br> <br>
 <p> <a href="https://www.projectumbrella.net/biohazard-umbrella-chronicles-prelude-to-the-fall.html"> <img align="left" src="https://github.com/mortisfication/mortisfication/blob/bfd7612683c7cbf5ad67a4c379af00158e8889e7/prelude%20to%20the%20fall.png" alt="prelude to the fall" width="400"/> </p>
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <img align="center" src="https://github.com/mortisfication/mortisfication/blob/e84c56d73fad9600f5eb17d7e911891c80546174/AWEEEE.png" alt="atabook" width="500"/> <a href="https://github.com/5orrows">the only other person i know that likes cars hi 5orrow</a> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
