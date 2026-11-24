@@ -15,7 +15,7 @@
 </details>
 </h6>
 <br>
-<p align="right"> ic for below: <a href="https://x.com/Opto33333">@Opto33333 on twt</p> <a href="https://github.com/BadFishlers"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/97ed6903c0e119551e1d78657f2f7ccef869e926/they%20are%20so%20moe.png" alt="me and badfish TRUE 100" width="400"/> </a>
+<p align="right"> all graphics made by me <br> ic for below: <a href="https://x.com/Opto33333">@Opto33333 on twt</p> <a href="https://github.com/BadFishlers"> <img align="right" src="https://github.com/mortisfication/mortisfication/blob/97ed6903c0e119551e1d78657f2f7ccef869e926/they%20are%20so%20moe.png" alt="me and badfish TRUE 100" width="400"/> </a>
 <p> <a href="https://www.projectumbrella.net/biohazard-umbrella-chronicles-prelude-to-the-fall.html"> <img align="left" src="https://github.com/mortisfication/mortisfication/blob/bfd7612683c7cbf5ad67a4c379af00158e8889e7/prelude%20to%20the%20fall.png" alt="prelude to the fall" width="400"/> </p>
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 <p align="center"> <img align="center" src="https://github.com/mortisfication/mortisfication/blob/951ddcfecda6461e6561e61edbed5ce9dcd4734b/motehr%20fuck.png" alt="chrisker" width="800"/> </p>
