@@ -2,7 +2,7 @@
   
 [![Hits](https://hits.sh/github.com/mortisfication.svg?style=for-the-badge&label=infected&extraCount=3120&color=ebebeb&&labelColor=ffffff&abbreviated=true)](https://hits.sh/github.com/mortisfication/) ![GitHub followers](https://img.shields.io/github/followers/mortisfication?style=for-the-badge&label=mortified&labelColor=dedede&color=cfcfcf) </div>
 
-<p align="center"> <img src="https://github.com/mortisfication/mortisfication/blob/f21e770b3fbcc3fc427d4a54b9e630137980d2e7/naturally%20gayyy.png" alt="atabook" width="725"/> </p>
+<p align="center"> <img src="https://github.com/mortisfication/mortisfication/blob/f21e770b3fbcc3fc427d4a54b9e630137980d2e7/naturally%20gayyy.png" alt="atabook" width="800"/> </p>
 
 <p> <img align="left" src="https://github.com/mortisfication/mortisfication/blob/68dbca2f1280845613f660fbc9d95d3ce18a4b95/sigh.png" alt="wesker hi there" width="400"/> </p>
 <br> <br>
