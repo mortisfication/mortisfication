@@ -11,7 +11,7 @@
 <details align="center">
 <summary> awards </summary>
 <br> 
-<a href="https://github.com/pt-players">pt players</a> <a href="https://github.com/pt-walk-of-fame">pt walk of fame</a> <a href="https://github.com/pt-hall-of-media">pt hall of media</a> <a href="https://github.com/pt-fashion">pt fashion</a> <a href="https://github.com/ponychievements">ponychievements</a> <br> <a href="https://github.com/pt-medals">pt medals</a> <a href="https://github.com/Ponytowns-rewards">ponytowns rewards</a> <a href="https://github.com/marvelous-pt">marvelous pt</a> <a href="https://github.com/Knox-Event">knox event</a> <a href="https://github.com/THE-TEMPIST">the tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a> 
+<a href="https://github.com/pt-awards">pt awards</a> <a href="https://github.com/pt-players">pt players</a> <a href="https://github.com/pt-walk-of-fame">pt walk of fame</a> <a href="https://github.com/pt-hall-of-media">pt hall of media</a> <a href="https://github.com/pt-fashion">pt fashion</a> <a href="https://github.com/ponychievements">ponychievements</a> <br> <a href="https://github.com/pt-medals">pt medals</a> <a href="https://github.com/Ponytowns-rewards">ponytowns rewards</a> <a href="https://github.com/marvelous-pt">marvelous pt</a> <a href="https://github.com/Knox-Event">knox event</a> <a href="https://github.com/THE-TEMPIST">the tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a> 
 </details>
 </h6>
 <br>
